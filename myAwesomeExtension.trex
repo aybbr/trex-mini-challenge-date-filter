@@ -4,10 +4,10 @@
     <default-locale>My Awesome Extension!</default-locale>
     <name resource-id="name"/>
     <description>My awesome extension that does awesome things!</description>
-    <author name="Ayoub" email="you@email.com" organization="N/A" website="http://www.ayoub.rocks"/>
+    <author name="Ayoub" email="you@email.com" organization="N/A" website="https://www.ayoub.rocks"/>
     <min-api-version>0.9</min-api-version>
     <source-location>
-      <url>YOUR URL HERE</url>
+      <url>https://aybbr.github.io/trex-mini-challenge-date-filter/</url>
     </source-location>
     <icon></icon>
   </dashboard-extension>
