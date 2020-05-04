@@ -1,0 +1,9 @@
+{
+    "credentials": {
+        "personalAccessTokenName": "level2",
+        "personalAccessTokenSecret": "",
+        "site": {
+            "contentUrl": "tablew"
+        }
+    }
+}
