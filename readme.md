@@ -1,5 +1,5 @@
-# The Developer Mini Challenges for Tableau Server
-### Theme: Automation & Integration
+# Developer Mini Challenges for Tableau Server
+### [Theme: Automation & Integration](https://www.tableau.com/developer/mini-challenges)
 
 + Level 1
 Sign-in to your site using Personal Access Token (PAT)
